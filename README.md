@@ -1,6 +1,8 @@
 # c-programming
 
 
+`video: https://youtu.be/I8cDvfrvFQI`
+
 
 # [watch](https://youtu.be/I8cDvfrvFQI)
 This is going to be complete playlist of fundamental of c programming from scratch to end .
