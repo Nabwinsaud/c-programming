@@ -1,7 +1,8 @@
 # c-programming
 
 
-`video: https://youtu.be/I8cDvfrvFQI`
+
+`video:https://www.youtube.com/watch?v=I8cDvfrvFQI`
 
 
 # [watch](https://youtu.be/I8cDvfrvFQI)
